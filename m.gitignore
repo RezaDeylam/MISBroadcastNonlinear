@@ -1,0 +1,23 @@
+# MATLAB autosave files
+*.asv
+*.autosave
+
+# Simulink cache and generated files
+*.slxc
+*.slx.cache
+
+# MEX binaries
+*.mex*
+
+# Figures, logs, temporary files
+*.fig
+*.log
+*.bak
+
+# MAT data files (optional)
+*.mat
+results/
+
+# OS cruft
+.DS_Store
+Thumbs.db
